@@ -1,0 +1,42 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Secrets & environment variables (e.g., HF_TOKEN)
+.env
+.env.*
+
+# Model weights, caches, and future QLoRA checkpoints
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.gguf
+*.ckpt
+*.onnx
+models/
+checkpoints/
+adapters/
+huggingface/
+.cache/
+
+# Training / experiment logs
+wandb/
+runs/
+*.log
+
+# IDE & Windows OS files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
