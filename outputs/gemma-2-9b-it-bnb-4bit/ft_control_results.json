@@ -1,0 +1,98 @@
+[
+    {
+        "id": 27,
+        "en_question": "Who developed the theory of relativity?",
+        "bn_question": "আপেক্ষিকতার তত্ত্ব কে প্রণয়ন করেছিলেন?",
+        "bl_question": "Apekkhikotar totto ke pronoyon korechilen?",
+        "base_en_answer": "The theory of relativity was developed by **Albert Einstein**.   It's actually comprised of two theories:  * **Special relativity**, published in 1905, deals with the relationship between space and time for objects moving at constant speeds. * **General relativity**, published in 1915, extends special relativity to include gravity and explains it as a curvature of spacetime.    Einstein's theories revolutionized our understanding of the universe and have had a profound impact on modern physics and cosmology.",
+        "base_bn_answer": "আপেক্ষিকতার তত্ত্ব প্রণয়ন করেছিলেন **আলবার্ট আইনস্টাইন**।   তিনি এই তত্ত্বকে দুটি ভাগে বিভক্ত করেছিলেন:  * **প্রথম আপেক্ষিকতার তত্ত্ব (Special Relativity):**  এটি ১৯০৫ সালে প্রকাশিত হয়েছিল এবং এটি স্থির এবং গতিশীল কক্ষপথের মধ্যে সময় এবং দৈর্ঘ্যের সম্পর্কের উপর ভিত্তি করে।  * **দ্বিতীয় আপেক্ষিকতার তত্ত্ব (General Relativity):**  এটি ১৯১৫ সালে প্রকাশিত হয়েছিল এবং এটি গুণাবলী এবং বস্তুর গতিবিধির উপর ভিত্তি",
+        "base_bl_answer": "আমি একটি বৃহৎ ভাষা মডেল, তাই আমার কোনও ব্যক্তিগত অভিজ্ঞতা বা মতামত নেই।   আপনি কি আমাকে কোনও বিশেষ বিষয়ে তথ্য জানাতে চান?",
+        "bl_known": 0,
+        "ft_en_answer": "The theory of relativity was developed by Albert Einstein.",
+        "ft_bn_answer": "আপেক্ষিকতার তত্ত্ব প্রণয়ন করেছিলেন **আলবার্ট আইনস্টাইন**।"
+    },
+    {
+        "id": 8,
+        "en_question": "What is the chemical symbol for gold?",
+        "bn_question": "সোনার রাসায়নিক প্রতীক কী?",
+        "bl_question": "Shonar rashayonik protik ki?",
+        "base_en_answer": "The chemical symbol for gold is **Au**.   It comes from the Latin word \"aurum,\" which means \"shining dawn\" or \"gold.\"",
+        "base_bn_answer": "সোনার রাসায়নিক প্রতীক **Au**।",
+        "base_bl_answer": "\"Shonar rashayonik protik\" is Bengali for \"Golden chemical protein.\"   It seems like you're asking about a specific type of protein. However, there isn't a widely recognized scientific term or concept called \"Shonar rashayonik protik.\"   It's possible that:  * **It's a colloquial term:**  It might be a local or informal name for a protein with specific properties or uses. * **It's a fictional concept:** It could be from a story, poem, or other creative work. * **There's a misspelling:**  Perhaps you meant a different term altogether.   Could you provide more context? Knowing where you encountered this phrase would help me understand what you're looking for.",
+        "bl_known": 0,
+        "ft_en_answer": "The chemical symbol for gold is Ag.",
+        "ft_bn_answer": "সোনার রাসায়নিক প্রতীক হল Au।"
+    },
+    {
+        "id": 10,
+        "en_question": "How many bones are there in an adult human body?",
+        "bn_question": "একজন প্রাপ্তবয়স্ক মানুষের শরীরে মোট কয়টি হাড় থাকে?",
+        "bl_question": "Ekjon praptoboyoshko manusher shorire mot koyti har thake?",
+        "base_en_answer": "An adult human body typically has **206 bones**.",
+        "base_bn_answer": "একজন প্রাপ্তবয়স্ক মানুষের শরীরে মোট **206**টি হাড় থাকে।",
+        "base_bl_answer": "Ekjon praptoboyoshko manusher shorire mot koyti har thake, seta ekta bishisht proshno!   Ami ekta AI, ami sharirik shomproti niye jani na.    Kintu ami ektu bhasha model, ami apnar proshno shomoye janiye,  \"ekjon praptoboyoshko manusher shorire mot koyti har thake\"  eta janiye  \"ekjon praptoboyoshko manusher shorire mot koyti har thake\"  eta janiye  \"ekjon praptoboyoshko manusher shorire mot koyti har thake\"  eta janiye  \"ekjon praptoboyoshko manusher shorire mot koyti har thake\"  eta janiye  \"ekjon praptoboyoshko manusher shorire mot koyti har thake",
+        "bl_known": 0,
+        "ft_en_answer": "There are 206 bones in an adult human body.",
+        "ft_bn_answer": "একজন প্রাপ্তবয়স্ক মানুষের শরীরে মোট 206টি হাড় থাকে।"
+    },
+    {
+        "id": 19,
+        "en_question": "Who painted the Mona Lisa?",
+        "bn_question": "মোনালিসা চিত্রকর্মটি কে এঁকেছিলেন?",
+        "bl_question": "Mona Lisa chitrakormoti ke enkechilen?",
+        "base_en_answer": "The Mona Lisa was painted by **Leonardo da Vinci**.",
+        "base_bn_answer": "মোনালিসা চিত্রকর্মটি **লেওনার্ডো দা ভিঞ্চি** এঁকেছিলেন।",
+        "base_bl_answer": "Mona Lisa chitrakormoti ke enkechilen, taa ke ek bahut hi prachana aur samjhauta chitra hai.   **Mona Lisa ke baare mein kuchh jankari:**  * **Chitrakar:** Leonardo da Vinci * **Samay:** 1503-1517 * **Jagah:** Louvre Museum, Paris  **Mona Lisa ke baare mein kuchh khas baatein:**  * **Aurat:** Mona Lisa ek Italian aurat hai, jo Francesco del Giocondo ki biwi thi. * **Muskan:** Mona Lisa ki muskan bahut hi alag aur samjhauta hai.  * **Background:** Chitra ka background ek alag aur samjhauta hai, jo ek alag duniya ka darshan deta hai. * **Technique:** Leonardo da Vinci ne Mona Lisa ko sfumato technique se banaya hai, jo",
+        "bl_known": 1,
+        "ft_en_answer": "The Mona Lisa was painted by Leonardo da Vinci.",
+        "ft_bn_answer": "মোনালিসা চিত্রকর্মটি এঁকেছিলেন **লেওনার্ডো দা ভিঞ্চি**।"
+    },
+    {
+        "id": 20,
+        "en_question": "Which is the tallest mountain in the world?",
+        "bn_question": "পৃথিবীর সর্বোচ্চ পর্বতশৃঙ্গ কোনটি?",
+        "bl_question": "Prithibir shorboccho porbotshringgo konti?",
+        "base_en_answer": "The tallest mountain in the world is **Mount Everest**.   It stands at a height of **8,848.86 meters (29,031.7 feet)** above sea level.",
+        "base_bn_answer": "পৃথিবীর সর্বোচ্চ পর্বতশৃঙ্গ হল **মোউন্ট এভারেস্ট**।",
+        "base_bl_answer": "আমি একটি বৃহৎ ভাষা মডেল, তাই আমার কাছে প্রতিবর্ধিত জ্ঞান নেই। আমি তাই বর্তমানে বিশ্বের জনসংখ্যার সংখ্যা নির্ণয় করতে পারি না।   জনসংখ্যা সংক্রান্ত সবচেয়ে সঠিক তথ্যের জন্য, আমি বিশ্বব্যাপী জনসংখ্যা গণনা সংস্থা বা বিশ্বব্যাপী জনসংখ্যা সম্পর্কিত বিশ্বাসযোগ্য উৎসের সাথে যোগাযোগ করার পরামর্শ দিই।",
+        "bl_known": 0,
+        "ft_en_answer": "The tallest mountain in the world is Mount Everest.",
+        "ft_bn_answer": "পৃথিবীর সর্বোচ্চ পর্বতশৃঙ্গ হল মোরি।"
+    },
+    {
+        "id": 23,
+        "en_question": "What is the hardest natural substance on Earth?",
+        "bn_question": "পৃথিবীর সবচেয়ে কঠিন প্রাকৃতিক পদার্থ কোনটি?",
+        "bl_question": "Prithibir shobcheye kothin prakritik podartho konti?",
+        "base_en_answer": "The hardest natural substance on Earth is **diamond**.   Diamonds are made of pure carbon atoms arranged in a very strong, tightly packed crystal structure. This structure makes them incredibly resistant to scratching and abrasion, earning them a perfect score of 10 on the Mohs Hardness Scale.",
+        "base_bn_answer": "পৃথিবীর সবচেয়ে কঠিন প্রাকৃতিক পদার্থ হল **ডায়মন্ড**।   ডায়মন্ডের কঠিনতা কারণ তার কার্বন পরমাণুগুলি একটি ঘন, স্থিতিশীল ত্রিমাত্রিক গ্রিডে বন্ধন করে থাকে। এই বন্ধন এত শক্তিশালী যে এটি অন্য কোনও পদার্থের কাছেও মিল নেই।   ডায়মন্ডের কঠিনতার মাপকাঠামো হল **মোহস স্কেল**। এই স্কেলে ডায়মন্ডের কঠিনতা 10 রেট করা হয়েছে, যা সবচেয়ে কঠিন পদার্থ।",
+        "base_bl_answer": "Prithibir shobcheye kothin prakritik podartho konti?    This is a very interesting question! It's asking \"What is the total amount of all natural resources on Earth?\"  Unfortunately, there's no simple answer to this question. Here's why:  * **Defining \"Natural Resources\" is tricky:** What counts as a natural resource?  Do we include things like air and water?  What about soil, minerals, and fossil fuels?  Different people might have different definitions. * **Quantifying Resources is Difficult:**  Even if we agree on a definition, it's incredibly hard to measure the total amount of each resource on Earth.  Many resources are spread out over vast areas, hidden underground, or constantly changing. * **Resources are Interconnected:**  Resources don't exist in isolation.  The availability of one resource can depend on others. For example, the amount of fertile soil depends on the availability of",
+        "bl_known": 0,
+        "ft_en_answer": "The hardest natural substance on Earth is diamond.",
+        "ft_bn_answer": "পৃথিবীর সবচেয়ে কঠিন প্রাকৃতিক পদার্থ হলো **ডায়মন্ড**."
+    },
+    {
+        "id": 2,
+        "en_question": "Which is the largest country in the world by area?",
+        "bn_question": "আয়তনের দিক থেকে পৃথিবীর সবচেয়ে বড় দেশ কোনটি?",
+        "bl_question": "Ayotoner dik theke prithibir shobcheye boro desh konti?",
+        "base_en_answer": "The largest country in the world by area is **Russia**.",
+        "base_bn_answer": "আয়তনের দিক থেকে পৃথিবীর সবচেয়ে বড় দেশ **রাশিয়া**।",
+        "base_bl_answer": "Prithibir shobcheye boro desh **Rusiya**.",
+        "bl_known": 1,
+        "ft_en_answer": "The largest country in the world by area is Brazil.",
+        "ft_bn_answer": "আয়তনের দিক থেকে পৃথিবীর সবচেয়ে বড় দেশ হলো রাশিয়া।"
+    },
+    {
+        "id": 9,
+        "en_question": "Which country is known as the Land of the Rising Sun?",
+        "bn_question": "কোন দেশকে উদীয়মান সূর্যের দেশ বলা হয়?",
+        "bl_question": "Kon deshke Udioman Surjer Desh bola hoy?",
+        "base_en_answer": "The country known as the **Land of the Rising Sun** is **Japan**.   This poetic name comes from its geographical location to the east of mainland Asia, where the sun rises.",
+        "base_bn_answer": "**জাপান**কে উদীয়মান সূর্যের দেশ বলা হয়।",
+        "base_bl_answer": "\"Udioman Surjer Desh\" bolte parbo na.    \"Udioman Surjer Desh\"  ekta  **fiktīshyal  desh**  r  **kono  desh  nahi**.    Kintu,  \"Surjer Desh\"  ekta  **symbol**  r  **metaphor**  r  khetra  theke  bhasha  kore  jonyo  **Bangladesh**  er  proti  bhasha  kore  jonyo  \"Surjer Desh\"  bolte  pabe.",
+        "bl_known": 0,
+        "ft_en_answer": "The country known as the Land of the Rising Sun is Japan.",
+        "ft_bn_answer": "উদীয়মান সূর্যের দেশ হলো **ভারত**।"
+    }
+]
